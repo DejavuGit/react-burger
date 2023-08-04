@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './App.css';
+// import './App.css';
 // import { Tab } from '@ya.praktikum/react-developer-burger-ui-components';
 
 function App() {
