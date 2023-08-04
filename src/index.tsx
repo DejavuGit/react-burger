@@ -11,7 +11,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Button htmlType="button" type="primary" size="small" extraClass="ml-2">
-  Нажми на меня
+  Нажми на меня@
 </Button>
   </React.StrictMode>
 );
